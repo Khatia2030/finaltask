@@ -1,11 +1,12 @@
 @font-face {
     font-family: Antonio;
-    src: url("http://127.0.0.1:5500//assets/fonts/antonio.woff2") format("woff"); }
+    src: url("http://127.0.0.1:5500/assets/fonts/antonio.woff2") format("woff"); /*  http://127.0.0.1:5500 chanacvldes /assets=amde  */
+}
 @font-face {
     font-family: League Spartan-bold;
-    src: url("http://127.0.0.1:5500/assets/fonts/league-spartan-v11-latin-700.woff2") format("woff2"),
+    src: url("http://127.0.0.1:5500/assets/fonts/league-spartan-v11-latin-700.woff2") format("woff");
 }
 @font-face {
     font-family:  League Spartan;
-    src: url("http://127.0.0.1:5500/assets/fonts/league-spartan-v11-latin-regular.woff2") format("woff2"),
+    src: url("http://127.0.0.1:5500/assets/fonts/league-spartan-v11-latin-regular.woff2") format("woff");
 }
